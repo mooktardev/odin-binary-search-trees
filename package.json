@@ -1,0 +1,24 @@
+{
+  "name": "odin-binary-search-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooktardev/odin-binary-search-trees.git"
+  },
+  "keywords": [
+    "Binary",
+    "Search",
+    "Trees"
+  ],
+  "author": "Mooktar Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooktardev/odin-binary-search-trees/issues"
+  },
+  "homepage": "https://github.com/mooktardev/odin-binary-search-trees#readme"
+}
